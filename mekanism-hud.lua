@@ -2,17 +2,7 @@ component = require("component")
 event = require("event")
 serialization = require("serialization")
 sides = require("sides")
-tankDeuterium = false
-tankTritium = false
-laserAmplifier = false
-laIgnitionEnergy = 1250000
-redstone = false
-redstoneSide = false
-inductionMatrix = false
-glassesTerminal = false
-reactor = false
-offsetX = 0
-offsetY = 0
+
 buttons = {}
 
 maxCaseHeat = 0
